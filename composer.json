@@ -1,5 +1,5 @@
 {
-  "name": "alireza5014/simple-cache",
+  "name": "alireza5014/simple-cache-lumen",
   "description": "An easy to use caching trait for Laravel's Eloquent Models.",
   "license": "MIT",
   "authors": [
