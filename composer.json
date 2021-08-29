@@ -19,8 +19,6 @@
     }
   },
   "require": {
-    "illuminate/database": "8.*",
-    "illuminate/cache": "8.*",
-    "illuminate/support": "8.*"
+
   }
 }
